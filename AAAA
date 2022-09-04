@@ -1,0 +1,7 @@
+  GNU nano 6.2                        bot.skey                                  
+{
+    "type": "PaymentSigningKeyShelley_ed25519",
+    "description": "Payment Signing Key",
+    "cborHex": "5820a0794ee766c36258b58c9ada92ffa5816f567c7f60eb78141b94bb152fa>
+}
+
