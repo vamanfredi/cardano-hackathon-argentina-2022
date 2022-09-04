@@ -1,6 +1,6 @@
 MYADRESS
-addr_test1vrm6as5u4v68qqa420rnvgqajvjzwe6v7mlvex36qgrpy5sge27gc
 
+addr_test1vqph0hf4h3ztk34v7g0z73g9muehnvqd0ag7k2pvfm9cdrq76sydw
 # Testing tokens
 
 Minting Policy: "789824bb4bcdc53d96c9114a9aec50149eb0ec7198d292c172556ec1"
